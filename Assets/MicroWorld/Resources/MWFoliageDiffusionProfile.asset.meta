@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16735f96d1e008c40adc10cf9510baa1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Resources/MWFoliageDiffusionProfile.asset
+  uploadId: 781601

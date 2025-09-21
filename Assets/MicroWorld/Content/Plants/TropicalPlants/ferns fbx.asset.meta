@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4bf5558ac8225f40971a50fb5cab1cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Plants/TropicalPlants/ferns fbx.asset
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 551eb43f29394de40998bbf0bb61e75c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Do_not_use_this/Tree16_collider.prefab
+  uploadId: 781601

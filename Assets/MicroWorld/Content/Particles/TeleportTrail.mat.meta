@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46554a04bd279ad43ad93ad4e28b6bab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Particles/TeleportTrail.mat
+  uploadId: 781601

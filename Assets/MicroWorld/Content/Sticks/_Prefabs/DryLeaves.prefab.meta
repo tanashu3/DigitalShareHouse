@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 329c1efa32957f34b80c208ef49e34bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Sticks/_Prefabs/DryLeaves.prefab
+  uploadId: 781601

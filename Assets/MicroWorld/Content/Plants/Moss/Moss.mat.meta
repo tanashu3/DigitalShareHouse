@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac4d5481ea3a81142a2c44d8bb11c4be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Plants/Moss/Moss.mat
+  uploadId: 781601

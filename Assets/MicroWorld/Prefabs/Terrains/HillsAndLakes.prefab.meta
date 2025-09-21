@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d596ac9c16091d5419233522f3776319
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Prefabs/Terrains/HillsAndLakes.prefab
+  uploadId: 781601

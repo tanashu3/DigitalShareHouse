@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be9eca2bfb05ce04db988786d2f7a312
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Bushes/_Prefabs/Bush Temperate.prefab
+  uploadId: 781601

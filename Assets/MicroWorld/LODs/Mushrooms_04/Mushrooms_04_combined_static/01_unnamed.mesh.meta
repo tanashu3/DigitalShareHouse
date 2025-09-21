@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f65d357b490c9540889e0f367bd7168
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/Mushrooms_04/Mushrooms_04_combined_static/01_unnamed.mesh
+  uploadId: 781601

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79cd1b6cb24fa2a40b3a0a6366994630
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Road/Road 0.mat
+  uploadId: 781601

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5b8cb77363446840bb05c86b3b09cc0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Flowers/Flower/Flower1_4.mesh
+  uploadId: 781601

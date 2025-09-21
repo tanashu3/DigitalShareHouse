@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57c991bae984ea34584bba0b82a95774
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/Common/Materials/Buisson_02_Atlas.mat
+  uploadId: 781601

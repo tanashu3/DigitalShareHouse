@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01f6242fbe813994bbbaf45c791f9514
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Surface/_Prefabs/Grass2.terrainlayer
+  uploadId: 781601

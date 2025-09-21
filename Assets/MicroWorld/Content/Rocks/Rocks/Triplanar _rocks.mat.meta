@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5db8adeb93c5f34dbb190b2adce1d16
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Rocks/Rocks/Triplanar _rocks.mat
+  uploadId: 781601

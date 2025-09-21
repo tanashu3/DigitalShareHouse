@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2024c14b0a3a6cf42934a7d848ae4362
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Buildings/Other/Old_industrial_fence_texture_with_rust.mat
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bbb4c0d730876d479a4afb919af031a
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Shaders/URP/Fade.cginc
+  uploadId: 781601

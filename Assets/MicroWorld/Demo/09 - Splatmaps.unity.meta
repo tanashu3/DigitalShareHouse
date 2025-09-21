@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3617d92a41218ea4592a3cf92b8e6b77
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/09 - Splatmaps.unity
+  uploadId: 781601

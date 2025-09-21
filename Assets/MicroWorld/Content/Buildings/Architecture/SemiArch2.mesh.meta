@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f437cd6bc7f3644b896adf2fc22e8bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Buildings/Architecture/SemiArch2.mesh
+  uploadId: 781601

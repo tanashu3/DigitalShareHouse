@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed04e9b7c26d38140a2bf6767498fab1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/02 - Infinite World/LightingData.asset
+  uploadId: 781601

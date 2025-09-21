@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3cdedebecad7e8145a66fe084f114472
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/01 - Advanced/Player.prefab
+  uploadId: 781601

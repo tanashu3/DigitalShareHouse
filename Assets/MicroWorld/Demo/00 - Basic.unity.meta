@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: caf0b2aac0f2035469970e4e15484c0a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/00 - Basic.unity
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33cfed81333fa024d9b5e98377bf4b33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Sticks/_Prefabs/Stumps.prefab
+  uploadId: 781601

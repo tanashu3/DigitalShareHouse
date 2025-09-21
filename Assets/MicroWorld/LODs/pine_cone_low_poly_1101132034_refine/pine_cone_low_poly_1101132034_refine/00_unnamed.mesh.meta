@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc7320cfe2342af41bd5bcc4afba39b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/pine_cone_low_poly_1101132034_refine/pine_cone_low_poly_1101132034_refine/00_unnamed.mesh
+  uploadId: 781601

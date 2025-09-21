@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 130a77f037d3ccb43ae1122fd941087a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Prefabs/Sets/Maps.prefab
+  uploadId: 781601

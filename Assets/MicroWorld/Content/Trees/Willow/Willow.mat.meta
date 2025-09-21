@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9aecc1063cebcda48abe2ce8edb69f9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/Willow/Willow.mat
+  uploadId: 781601

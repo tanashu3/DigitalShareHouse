@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e0c7c0b0910d5843bed2e2ab731780c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/_Prefabs/Palm1.prefab
+  uploadId: 781601

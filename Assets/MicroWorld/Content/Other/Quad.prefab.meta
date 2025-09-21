@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ceda85fc2c1f9734cba2bd08152afdef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Other/Quad.prefab
+  uploadId: 781601

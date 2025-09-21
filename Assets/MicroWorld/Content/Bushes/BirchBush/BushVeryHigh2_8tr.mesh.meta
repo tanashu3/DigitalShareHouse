@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51aad139f8718f646aad920e7ae984f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Bushes/BirchBush/BushVeryHigh2_8tr.mesh
+  uploadId: 781601

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3665bb773479354ca18e2a234ceb200
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Water/HDRP/WaterHDRP.mat
+  uploadId: 781601

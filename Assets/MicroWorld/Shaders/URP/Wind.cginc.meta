@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2da4bfba78fe1c943af01cf8ca2251d4
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Shaders/URP/Wind.cginc
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f5d96673098bac4ab9f4ad5bad9840c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Do_not_use_this/Kapok_collider.prefab
+  uploadId: 781601

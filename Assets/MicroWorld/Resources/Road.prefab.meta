@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7e580638bb4d714d943b6bc7288369f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Resources/Road.prefab
+  uploadId: 781601

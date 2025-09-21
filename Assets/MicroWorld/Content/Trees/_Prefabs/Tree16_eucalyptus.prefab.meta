@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a456afe163dd15d4ea54df02755c2008
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/_Prefabs/Tree16_eucalyptus.prefab
+  uploadId: 781601

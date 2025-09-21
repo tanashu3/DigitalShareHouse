@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfecb14524392c24b856619bac7fc7e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/Settings/CloudyNatural.asset
+  uploadId: 781601

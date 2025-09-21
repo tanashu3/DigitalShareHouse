@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d19f44fb47309d343a5d0ef6f8fd17ae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Rocks/_Prefabs/vert rock 4000.prefab
+  uploadId: 781601

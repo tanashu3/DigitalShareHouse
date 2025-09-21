@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc0edf34273a8734b94dc84ea7e2269c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Resources/Gate.prefab
+  uploadId: 781601

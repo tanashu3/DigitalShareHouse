@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 642a99fd892f93b488e0d51d7bb5b6c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/_Prefabs/Jungle2.prefab
+  uploadId: 781601

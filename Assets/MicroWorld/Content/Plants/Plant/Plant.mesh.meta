@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fd4ecf9b217f524a85fef1c301abefe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Plants/Plant/Plant.mesh
+  uploadId: 781601

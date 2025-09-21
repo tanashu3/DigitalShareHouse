@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69962d4f99503df40aa2f6159df605c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Resources/Water.prefab
+  uploadId: 781601

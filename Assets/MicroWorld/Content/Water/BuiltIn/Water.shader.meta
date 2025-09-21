@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf69de85616f6e445b2e827a001cdb13
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Water/BuiltIn/Water.shader
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb9b1cf05604b354593cc2d406b1adc4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/_Prefabs/Kapok.prefab
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cec408de4afc724eb432d6ab3c6dd22
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/06 - Dungeon/Lamp.prefab
+  uploadId: 781601

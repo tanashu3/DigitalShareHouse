@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1d266bc7dcc7b94a839bdaf1c0ada1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Mushrooms/Set1/Mushroom_01.mat
+  uploadId: 781601

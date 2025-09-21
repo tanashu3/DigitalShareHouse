@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0c047dc7e0680b45aa62272b6ca9624
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/08 - Outpost.unity
+  uploadId: 781601

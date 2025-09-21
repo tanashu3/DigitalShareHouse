@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ffad3aeeb4fd17749a030fea9090d056
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Prefabs/Terrains/Valley.prefab
+  uploadId: 781601

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2042292f0286fd4d8684f6a78f8d912
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/DryBranchesHoriz1/DryBranchesHoriz1_combined_static/01_unnamed.mesh
+  uploadId: 781601

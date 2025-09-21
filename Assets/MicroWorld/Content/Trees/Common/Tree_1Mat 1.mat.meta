@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da658930b89526849b4c6aaad81f0ebe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/Common/Tree_1Mat 1.mat
+  uploadId: 781601

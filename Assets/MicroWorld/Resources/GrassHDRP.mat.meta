@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa240a9903202d048bb110a291cd4c75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Resources/GrassHDRP.mat
+  uploadId: 781601

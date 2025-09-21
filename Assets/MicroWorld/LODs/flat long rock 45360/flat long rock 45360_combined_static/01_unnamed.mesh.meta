@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dee6976a8dac950449e6150cf878d3e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/flat long rock 45360/flat long rock 45360_combined_static/01_unnamed.mesh
+  uploadId: 781601

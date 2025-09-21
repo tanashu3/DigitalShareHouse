@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0833dedb04bd0a541a062ecb072d7f7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Scripts/Gates/BaseGateManager.cs
+  uploadId: 781601

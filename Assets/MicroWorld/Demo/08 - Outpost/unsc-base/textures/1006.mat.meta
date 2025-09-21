@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4032ab3f167ee834699dfae158686bf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/08 - Outpost/unsc-base/textures/1006.mat
+  uploadId: 781601

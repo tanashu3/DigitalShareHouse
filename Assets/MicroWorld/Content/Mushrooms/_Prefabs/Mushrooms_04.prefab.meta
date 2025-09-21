@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25ecc0193cb2bec42bdeef6c231e4912
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Mushrooms/_Prefabs/Mushrooms_04.prefab
+  uploadId: 781601

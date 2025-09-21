@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d619200a49364f642b42fa61808d47aa
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Demo/06 - Dungeon.unity
+  uploadId: 781601

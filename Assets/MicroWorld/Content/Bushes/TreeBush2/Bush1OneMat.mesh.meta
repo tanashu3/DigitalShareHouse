@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6641d6af594d8ae4a8fbf2402e50881e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Bushes/TreeBush2/Bush1OneMat.mesh
+  uploadId: 781601

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a3ccd2bba11237441b9226de8f40e450
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Scripts/Buildings/ShapesEditor.cs
+  uploadId: 781601

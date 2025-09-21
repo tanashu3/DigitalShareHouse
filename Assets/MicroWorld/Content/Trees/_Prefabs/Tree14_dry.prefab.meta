@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 023f2e1a85bb1aa4ead5e1178bf5689b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/_Prefabs/Tree14_dry.prefab
+  uploadId: 781601

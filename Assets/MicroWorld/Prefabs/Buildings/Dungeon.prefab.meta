@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b4936a8150a7d94dae8efaf7168f714
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Prefabs/Buildings/Dungeon.prefab
+  uploadId: 781601

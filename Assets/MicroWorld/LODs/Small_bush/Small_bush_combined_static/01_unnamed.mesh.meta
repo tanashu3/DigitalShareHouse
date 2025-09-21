@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef695b98866e86d4d935ffcc42ad21b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/Small_bush/Small_bush_combined_static/01_unnamed.mesh
+  uploadId: 781601

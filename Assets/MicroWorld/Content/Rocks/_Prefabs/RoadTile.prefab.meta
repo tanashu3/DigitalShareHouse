@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d5f017d376c30c4fa60ce212dc0e64e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Rocks/_Prefabs/RoadTile.prefab
+  uploadId: 781601

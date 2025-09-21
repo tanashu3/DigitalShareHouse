@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5785d5403b173264cb3404dda4002004
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/Palm1 1/Tree_1/03_unnamed.mesh
+  uploadId: 781601

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 660f04075fb17a745bf81f9b09c64b6b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Prefabs/Rocks.prefab
+  uploadId: 781601

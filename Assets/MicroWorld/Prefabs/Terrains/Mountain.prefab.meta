@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b6e778f7d7b7334d93eda1d6fadb083
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Prefabs/Terrains/Mountain.prefab
+  uploadId: 781601

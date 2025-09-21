@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6dacc26cf2742f94fbc9b4cfa2ceb295
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Sticks/_Prefabs/PineCone.prefab
+  uploadId: 781601

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b471a34680af71c4e8413f3895ad2d61
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Bushes/BirchBush/birch_16tr.asset
+  uploadId: 781601

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 747cf0a3427fc7f46b3e84bce9ba32d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Sticks/DryBranches/DryBranches.mat
+  uploadId: 781601

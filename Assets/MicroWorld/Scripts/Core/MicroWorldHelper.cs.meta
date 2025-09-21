@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 345316f380fb1e34597d90379b78f731
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Scripts/Core/MicroWorldHelper.cs
+  uploadId: 781601

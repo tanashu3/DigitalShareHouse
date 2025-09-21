@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fad315f64f3976c4e8726f253071dd47
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Sticks/Sticks/stick04_LOD4.mat
+  uploadId: 781601

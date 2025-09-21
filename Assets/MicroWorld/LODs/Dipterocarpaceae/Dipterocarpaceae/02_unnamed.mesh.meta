@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27da1706ef2c1d940a282aa2a38acff1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/Dipterocarpaceae/Dipterocarpaceae/02_unnamed.mesh
+  uploadId: 781601

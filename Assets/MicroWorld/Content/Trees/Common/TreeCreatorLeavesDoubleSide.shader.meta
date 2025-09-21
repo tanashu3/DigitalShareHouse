@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2e6017d7c4e930458ae83fb038b551b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/Common/TreeCreatorLeavesDoubleSide.shader
+  uploadId: 781601

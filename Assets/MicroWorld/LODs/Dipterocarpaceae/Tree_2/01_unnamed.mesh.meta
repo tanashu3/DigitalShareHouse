@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1933fa5fc3ca7e6449ab1095953ca6f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/Dipterocarpaceae/Tree_2/01_unnamed.mesh
+  uploadId: 781601

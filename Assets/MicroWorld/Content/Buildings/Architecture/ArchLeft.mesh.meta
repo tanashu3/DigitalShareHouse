@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5eed95db3e1949145b4f1d63911ba9d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Buildings/Architecture/ArchLeft.mesh
+  uploadId: 781601

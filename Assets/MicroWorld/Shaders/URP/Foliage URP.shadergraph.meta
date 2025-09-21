@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36b3946151d78a84f80aaf382d07d2fc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Shaders/URP/Foliage URP.shadergraph
+  uploadId: 781601

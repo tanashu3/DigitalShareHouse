@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d13b3d0c9004f14da345b0f584a4ad7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/Eucalyptus/Tree_eucalyptus.mat
+  uploadId: 781601

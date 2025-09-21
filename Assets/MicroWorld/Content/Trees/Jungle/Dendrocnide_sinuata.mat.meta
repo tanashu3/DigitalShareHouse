@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aba33136d5634e141be66d8a56c3abfe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/Content/Trees/Jungle/Dendrocnide_sinuata.mat
+  uploadId: 781601

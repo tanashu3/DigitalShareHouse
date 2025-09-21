@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 270c54d1606254a4f94887387ccfab04
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297049
+  packageName: MicroWorld - Procedural Level Generator
+  packageVersion: 1.3
+  assetPath: Assets/MicroWorld/LODs/Tree16_eucalyptus/Tree16_eucalyptus/01_unnamed.mesh
+  uploadId: 781601
