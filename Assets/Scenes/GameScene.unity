@@ -252,27 +252,27 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 543303702}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 14.039851
       objectReference: {fileID: 0}
     - target: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 8.892865
       objectReference: {fileID: 0}
     - target: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.000099705
       objectReference: {fileID: 0}
     - target: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.4450002
+      value: 9.045
       objectReference: {fileID: 0}
     - target: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.245
+      value: 1.0895519
       objectReference: {fileID: 0}
     - target: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
       propertyPath: m_LocalRotation.w
@@ -326,7 +326,6 @@ GameObject:
   - component: {fileID: 543303701}
   - component: {fileID: 543303700}
   - component: {fileID: 543303699}
-  - component: {fileID: 543303698}
   - component: {fileID: 543303703}
   m_Layer: 0
   m_Name: Ship
@@ -334,20 +333,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &543303698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 543303697}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8fdaec632737a98409a89a55d0c1e3f5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ConstantMovement
-  moveSpeed: 5
+  m_IsActive: 0
 --- !u!65 &543303699
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -433,12 +419,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 543303697}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.000099705, y: 7.6, z: -1.0892}
   m_LocalScale: {x: 14.039851, y: 1, z: 8.892865}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1486445492}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &543303703
@@ -499,11 +484,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &1486445492 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
-  m_PrefabInstance: {fileID: 299186387}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1679285299
 GameObject:
   m_ObjectHideFlags: 0
@@ -548,17 +528,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42daa71c5aa5678488e18694cd60fb65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTransform: {fileID: 1486445492}
-  IslandPrefabs:
-  - {fileID: 8735886366330395984, guid: 58c58fdb04dfd9f45a7293098a9f0125, type: 3}
-  - {fileID: 8735886366330395984, guid: 8d753aba3cbcff84087699c22a93b29a, type: 3}
-  - {fileID: 8735886366330395984, guid: 72a3156027110d84186cb1b38a54b799, type: 3}
-  OceanTilePrefab: {fileID: 9207654558737106432, guid: 69962d4f99503df40aa2f6159df605c0, type: 3}
-  WorldSize: 150
-  IslandBaseHeight: 20
-  OceanBaseHeight: 0
-  GenerationTriggerDistance: 100
-  GenerationForwardDistance: 150
+  MicroWorldPrefab: {fileID: 8735886366330395984, guid: 8d753aba3cbcff84087699c22a93b29a, type: 3}
+  StartSeed: 1
 --- !u!1 &1687447976 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5920709459919231403, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
@@ -591,11 +562,73 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!4 &1687447983 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2860639203252979548, guid: 3cdedebecad7e8145a66fe084f114472, type: 3}
+  m_PrefabInstance: {fileID: 299186387}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1723438174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1723438176}
+  - component: {fileID: 1723438175}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &1723438175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1723438174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78fb7518580ee844a2fcaa0c7c9d455, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MicroWorldNS.WorldStreamingManager
+  ShipTransform: {fileID: 1687447983}
+  IslandPrefabs:
+  - {fileID: 8735886366330395984, guid: 7e5acfb93275427498ce6375335cad40, type: 3}
+  - {fileID: 8735886366330395984, guid: 8d753aba3cbcff84087699c22a93b29a, type: 3}
+  - {fileID: 8735886366330395984, guid: 72a3156027110d84186cb1b38a54b799, type: 3}
+  OceanTilePrefab: {fileID: 9207654558737106432, guid: 69962d4f99503df40aa2f6159df605c0, type: 3}
+  IslandBaseHeight: 30
+  OceanBaseHeight: 0
+  OceanTileSize: 150
+  GenerationDistance: 100
+  DeletionDistance: 100
+--- !u!4 &1723438176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1723438174}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 294502596}
   - {fileID: 1679285300}
+  - {fileID: 1723438176}
   - {fileID: 1287606582}
+  - {fileID: 299186387}
   - {fileID: 543303702}
