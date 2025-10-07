@@ -54,23 +54,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Seed: 1
   Locked: 0
-  Gates:
-  - Name: North Gate
-    WorldSide: 0
-    Cell: {x: 3, y: 16}
-    ReferenceType: 0
-    Target: {fileID: 0}
-    TargetId: 
-    Gate: {fileID: 0}
-    GatePrefab: {fileID: 0}
-  - Name: South Gate
-    WorldSide: 20
-    Cell: {x: 13, y: 0}
-    ReferenceType: 0
-    Target: {fileID: 0}
-    TargetId: 
-    Gate: {fileID: 0}
-    GatePrefab: {fileID: 0}
+  Gates: []
   Debug:
     DrawCells: 0
     DrawCellInfo: 0
@@ -13696,10 +13680,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: BiomeTemperate
       objectReference: {fileID: 0}
-    - target: {fileID: 5121940114432012914, guid: af67ac0882f75c643b1b4a16e374e1f0, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7882829875644086939, guid: af67ac0882f75c643b1b4a16e374e1f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -13776,11 +13756,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2599268818718044567, guid: 130a77f037d3ccb43ae1122fd941087a, type: 3}
       propertyPath: MapSize.m_ConstantMax
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2599268818718044567, guid: 130a77f037d3ccb43ae1122fd941087a, type: 3}
       propertyPath: MapSize.m_ConstantMin
-      value: 3
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2599268818718044567, guid: 130a77f037d3ccb43ae1122fd941087a, type: 3}
+      propertyPath: CellSize.m_ConstantMax
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2599268818718044567, guid: 130a77f037d3ccb43ae1122fd941087a, type: 3}
+      propertyPath: CellSize.m_ConstantMin
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5999113821602319802, guid: 130a77f037d3ccb43ae1122fd941087a, type: 3}
       propertyPath: m_IsActive
@@ -13958,6 +13946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Roads
       objectReference: {fileID: 0}
+    - target: {fileID: 4803616796246793389, guid: c8d836ea1b0280143b0711e0f580d69d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13976,25 +13968,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 140516969243707261}
     m_Modifications:
+    - target: {fileID: 277217799339540616, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 725430984457412489, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1258799235711234268, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_Name
       value: TerrainSpawners
       objectReference: {fileID: 0}
-    - target: {fileID: 2718137143288374223, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+    - target: {fileID: 1645761937576589992, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2704601866708406549, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: WaterPrefab
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2863991894308943237, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3669759918723332116, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+    - target: {fileID: 3418383631414959979, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: WaterPrefab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690053848760460317, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4505040459122959418, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
-      propertyPath: m_IsActive
-      value: 0
+    - target: {fileID: 4149700973017978419, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: WaterPrefab
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4659300143383556150, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_IsActive
@@ -14011,14 +14019,6 @@ PrefabInstance:
     - target: {fileID: 6740447970289748682, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: WaterPrefab
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6740447970289748682, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
-      propertyPath: WaterCovering.m_Mode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6740447970289748682, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
-      propertyPath: WaterCovering.m_ConstantMax
-      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 7260153727201930482, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14060,11 +14060,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7566911857031551639, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+    - target: {fileID: 7905110487369542615, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950770400103761164, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8387971704739290577, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: WaterPrefab
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 8565721527331837318, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8606979898087736935, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
+      propertyPath: WaterPrefab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9038968489871768048, guid: eac15422d26129944bd6bf40da85b6d4, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}

@@ -143,7 +143,7 @@ namespace MicroWorldNS
         }
 
         #endregion
-
+        private Vector3 buildOrigin = Vector3.zero;
         /// <summary> Removes terrain and clears all build-related data. </summary>
         public void Clear()
         {
@@ -235,40 +235,34 @@ namespace MicroWorldNS
             if (Locked)
                 yield break;
 
-            // goto MicroWorld to zero position
+            // --- ステップ1: 地形計算のため、一時的にワールド原点へ移動 ---
             transform.position = Vector3.zero;
-            //
+
+            // --- 既存の初期化処理 (変更不要) ---
             Terrain = null;
             TerrainSpawner = null;
             TerrainLayersBuilder = null;
             Map = null;
             Seed = Seed % MaxSeed;
-
             var rnd = new Rnd(Seed);
             ProcessedExclusiveGroups.Clear();
             CreatedMaterials.Clear();
-
-            // destroy before spawned Terrain
             ClearInternal();
-
-            //
             TakenTerrainExclusiveGroups = new HashSet<string>();
-
             OnBuildStarting?.Invoke(this);
             BuildStarting?.Invoke(this);
-
-            // prepare spawners
             yield return PrepareSpawners(rnd);
+            // ------------------------------------
 
-            // run spawners
+            // --- 既存の地形生成実行処理 (変更不要) ---
             yield return RunSpawners(rnd);
+            // ------------------------------------
 
-            // flush terrain layers
+            // --- 既存の後処理 (変更不要) ---
             if (TerrainLayersBuilder != null)
             {
                 if (!Terrain.gameObject.activeInHierarchy && Application.isPlaying && DelayedFlush)
                 {
-                    // delayed flush - after terrain activation
                     var launcher = Terrain.gameObject.GetOrAddComponent<OnActivatedLauncher>();
                     launcher.OnActivated += () =>
                     {
@@ -277,49 +271,53 @@ namespace MicroWorldNS
                     };
                 }
                 else
-                    // flush immediately
                     yield return TerrainLayersBuilder.FlushTerrainLayers();
             }
-
-            // build variants
             if (Terrain)
                 Variant.Build(Terrain.gameObject, rnd.GetBranch("Variants"));
-
             yield return null;
-
-            // ===== finish stuffs
-
-            // call spawners finish phase
             foreach (var spawner in Spawners)
             {
                 spawner.OnBuildCompleted();
                 yield return null;
             }
-
-            // Create Materials holder
-            // This is only needed to show the editors of the created materials in the inspector.
             if (Terrain != null)
             {
                 var matHolder = Terrain.GetOrAddComponent<MeshRenderer>();
 #if UNITY_2022_2_OR_NEWER
                 matHolder.SetSharedMaterials(CreatedMaterials.Values.ToList());
 #else
-                matHolder.sharedMaterials = CreatedMaterials.Values.ToArray();
+        matHolder.sharedMaterials = CreatedMaterials.Values.ToArray();
 #endif
                 matHolder.forceRenderingOff = true;
             }
+            // ------------------------------------
 
+            // --- ビルド完了フラグを立てる ---
             IsBuilt = true;
 
+            // ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+            // --- ステップ2: 保存しておいた本来の位置へ完成品を移動 --- ★
+            // ★ これが前回不足していた最も重要な処理です！             ★
+            transform.position = this.buildOrigin;
+            // ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+            // --- 既存の完了通知処理 (変更不要) ---
             yield return OnPhaseCompleted(BuildPhase.BuildCompleted);
             OnBuildCompleted?.Invoke(this);
-
-            // destroy Manipulator
             Manipulator.Destroy();
-
             BuildCompleted?.Invoke(this);
-
             yield return null;
+            // ------------------------------------
+        }
+
+        public void BuildAtPositionAsync(Vector3 worldPosition, Action<MicroWorld> onCompleted = null, bool activateAfterBuilt = false)
+        {
+            // 最終的な目的地を保存しておく
+            this.buildOrigin = worldPosition;
+
+            // 既存の非同期ビルド処理を呼び出す
+            BuildAsync(onCompleted, activateAfterBuilt);
         }
 
         private IEnumerator PrepareSpawners(Rnd rnd)
