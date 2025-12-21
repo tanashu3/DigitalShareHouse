@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f57bf7688ca12e47ab42b3d5d98b328
+timeCreated: 1547595910
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/tower/met tower floor.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 464c1090ff416064b967eed7d4914c31
+timeCreated: 1545078972
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/arc/arc face todown.prefab
+  uploadId: 470862

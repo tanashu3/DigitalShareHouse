@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13ae20df71de9204b87e2ee77ba3085c
+timeCreated: 1550076412
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/bridge/rails bridge tile.prefab
+  uploadId: 470862

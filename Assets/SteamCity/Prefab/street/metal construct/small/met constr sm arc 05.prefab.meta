@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1f58d3c69e59d34c8343c2bcb6d8098
+timeCreated: 1547252845
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/small/met constr sm arc
+    05.prefab
+  uploadId: 470862

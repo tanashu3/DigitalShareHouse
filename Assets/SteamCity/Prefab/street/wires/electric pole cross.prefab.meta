@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f06722162d6222e41add2075a766faa9
+timeCreated: 1549663909
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/wires/electric pole cross.prefab
+  uploadId: 470862

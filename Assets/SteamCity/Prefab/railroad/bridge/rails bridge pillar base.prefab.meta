@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ed3bca02694ad84c8abd652ec86590f
+timeCreated: 1550076757
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/bridge/rails bridge pillar base.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a78f3afd82fe8934fb7fc1b01848bd34
+timeCreated: 1550099838
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rail station roof hldr.prefab
+  uploadId: 470862

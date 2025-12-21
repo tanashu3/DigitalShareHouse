@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c759958992746374bb0d70e2eba5a07c
+timeCreated: 1549488621
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/showcase/shop/shop 5 ready.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40c5d8ac09420ca4e983c7f817a60c40
+timeCreated: 1546649282
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/decor/wall decor k end.prefab
+  uploadId: 470862

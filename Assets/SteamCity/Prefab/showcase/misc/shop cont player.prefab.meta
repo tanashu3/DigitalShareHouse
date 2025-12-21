@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e414fd5b06ab314aace24c16990dee1
+timeCreated: 1549288298
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/showcase/misc/shop cont player.prefab
+  uploadId: 470862

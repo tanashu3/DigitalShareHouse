@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a162638d86591684aa11b68463f4488d
+timeCreated: 1549991948
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/corridor tile.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97bfb3d8d837a7947815993cafcb22d7
+timeCreated: 1549298268
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/showcase/archetype a.prefab
+  uploadId: 470862

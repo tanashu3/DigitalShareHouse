@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1ff4e07ab7449540a14dbf9f8f4c350
+timeCreated: 1550186671
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rails platform ladder.prefab
+  uploadId: 470862

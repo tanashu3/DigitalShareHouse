@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 074869f3870165341bdb1e393efed6be
+timeCreated: 1549149996
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rail station sphere.prefab
+  uploadId: 470862

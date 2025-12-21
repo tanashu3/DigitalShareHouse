@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79a75f9aea0203e4193588645e2d6bbc
+timeCreated: 1544818968
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/bridgelike/wall arc constr dwn.prefab
+  uploadId: 470862

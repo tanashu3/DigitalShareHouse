@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ce480a465f13254f93ae44d00e7c6d5
+timeCreated: 1550104212
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rail station arc b.prefab
+  uploadId: 470862

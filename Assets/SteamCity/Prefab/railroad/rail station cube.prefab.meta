@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e38af773e6e0c1d43a4b716a9496bc7c
+timeCreated: 1549149995
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rail station cube.prefab
+  uploadId: 470862

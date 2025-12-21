@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eec5cec11e6ced34f9cdede8c4b8d5c5
+timeCreated: 1544470400
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/roof/roof 2.prefab
+  uploadId: 470862

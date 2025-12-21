@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e9ab01f4048edc4e97e9cb09f3b0826
+timeCreated: 1546565610
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/decor/decor square 1.prefab
+  uploadId: 470862

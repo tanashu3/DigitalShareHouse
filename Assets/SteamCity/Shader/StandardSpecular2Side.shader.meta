@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 97ef32a1afa9e834c9ef7f536acb49d8
+timeCreated: 1523401315
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Shader/StandardSpecular2Side.shader
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5591160c4c8d72441b7aa17fe7182da6
+timeCreated: 1549410765
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rails/rails cross.prefab
+  uploadId: 470862

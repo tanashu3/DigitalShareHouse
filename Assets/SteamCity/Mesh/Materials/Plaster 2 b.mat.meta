@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2f82bcb6f979f1429137f267339a8aa
+timeCreated: 1552256325
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/Materials/Plaster 2 b.mat
+  uploadId: 470862

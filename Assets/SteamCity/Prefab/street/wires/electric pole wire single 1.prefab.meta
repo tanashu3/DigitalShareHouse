@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d389e16fa1f0189478cbab70d56d8f14
+timeCreated: 1549666505
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/wires/electric pole wire single 1.prefab
+  uploadId: 470862

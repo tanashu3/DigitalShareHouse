@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eedbb72dfa97dff45af3df54a3045491
+timeCreated: 1550366197
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/dirt.mat
+  uploadId: 470862

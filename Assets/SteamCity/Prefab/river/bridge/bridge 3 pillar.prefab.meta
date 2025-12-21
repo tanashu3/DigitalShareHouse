@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c16ee6236dd90b544a71dc779fb9d2bb
+timeCreated: 1549414000
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/bridge/bridge 3 pillar.prefab
+  uploadId: 470862

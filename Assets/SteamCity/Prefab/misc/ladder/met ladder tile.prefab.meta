@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 229dd42b0071498468e6575f088cf0e2
+timeCreated: 1547158902
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/misc/ladder/met ladder tile.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc5027d9e5a5fc54cab4e83af5694b0d
+timeCreated: 1549410327
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/showcase/shop door.prefab
+  uploadId: 470862

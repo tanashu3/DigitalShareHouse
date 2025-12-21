@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d42c09b45b1ae6f438c8437a8adcb5f7
+timeCreated: 1545264294
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/bridgelike/_bridge 1 tile.prefab
+  uploadId: 470862

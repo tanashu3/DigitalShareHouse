@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a349b3b96ad6a0a4d9d609f4cc035b3c
+timeCreated: 1552256325
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/Materials/leak.mat
+  uploadId: 470862

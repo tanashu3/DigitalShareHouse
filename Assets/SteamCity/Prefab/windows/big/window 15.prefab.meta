@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cee3da726fd53b647bf962b2ff6aa44c
+timeCreated: 1546636419
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/windows/big/window 15.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3f0041e7f0051a4aae65e51657e5fe1
+timeCreated: 1550279542
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/sidewalk dir x3.prefab
+  uploadId: 470862

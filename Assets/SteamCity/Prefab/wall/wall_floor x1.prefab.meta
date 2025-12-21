@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cae1c39e81a87cf41861524f7d819c45
+timeCreated: 1544819609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/wall_floor x1.prefab
+  uploadId: 470862

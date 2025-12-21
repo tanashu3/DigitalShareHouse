@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05c184e9e373a754384c127c6393a907
+timeCreated: 1539987443
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/lamp/street lamp wall 4.prefab
+  uploadId: 470862

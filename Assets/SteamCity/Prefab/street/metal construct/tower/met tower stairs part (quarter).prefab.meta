@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddd94d8d2922a384ca795f4ebdf18aa6
+timeCreated: 1547595902
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/tower/met tower stairs
+    part (quarter).prefab
+  uploadId: 470862

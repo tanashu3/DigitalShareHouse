@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e7bc7be69230a44fb712759d8870226
+timeCreated: 1549068588
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/rail station.mat
+  uploadId: 470862

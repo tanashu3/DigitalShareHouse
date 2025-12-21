@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb2cce8ed0a2f9b459cda2df298ea6ae
+timeCreated: 1547252848
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/small/met constr sm base.prefab
+  uploadId: 470862

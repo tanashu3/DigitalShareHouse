@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63affd7fd182ff749bedb7071ddf22ca
+timeCreated: 1540415101
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/big/_met constr tile.prefab
+  uploadId: 470862

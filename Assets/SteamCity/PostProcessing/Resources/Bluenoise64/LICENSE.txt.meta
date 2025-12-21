@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48ffda675aa0afa4f9eec3a5d5487aeb
+timeCreated: 1485181015
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/PostProcessing/Resources/Bluenoise64/LICENSE.txt
+  uploadId: 470862

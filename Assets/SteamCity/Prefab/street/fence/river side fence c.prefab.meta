@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 643ff9ca5b4486d42b449f5941005653
+timeCreated: 1550161200
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/fence/river side fence c.prefab
+  uploadId: 470862

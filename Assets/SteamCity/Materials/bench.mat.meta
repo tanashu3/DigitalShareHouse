@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dca643ea368412c4c9d4232198a6fe17
+timeCreated: 1539212190
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/bench.mat
+  uploadId: 470862

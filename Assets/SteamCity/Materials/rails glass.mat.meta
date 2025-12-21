@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06cb703223424174f8f8ebe0b27a0a5d
+timeCreated: 1548725481
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/rails glass.mat
+  uploadId: 470862

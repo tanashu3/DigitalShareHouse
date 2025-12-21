@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cef749cd8ef17af448d453372ef09ba1
+timeCreated: 1550088175
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/river cap direct.prefab
+  uploadId: 470862

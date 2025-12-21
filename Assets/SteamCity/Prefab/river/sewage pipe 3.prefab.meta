@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5528d27105ec8d64c9fe6a823bbb5df7
+timeCreated: 1547661571
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/sewage pipe 3.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 138404dbd16747c4c964696a0ebb7d37
+timeCreated: 1541358600
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/showcase.mat
+  uploadId: 470862

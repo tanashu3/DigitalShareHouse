@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c824431c14eb48341b8b66cf9965972c
+timeCreated: 1548865033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rails/rails traffic light SM.prefab
+  uploadId: 470862

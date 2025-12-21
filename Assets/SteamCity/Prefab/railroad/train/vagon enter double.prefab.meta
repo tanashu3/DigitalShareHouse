@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dac49b43ccfc63c4a97638cba0bc7cc0
+timeCreated: 1550700022
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/train/vagon enter double.prefab
+  uploadId: 470862

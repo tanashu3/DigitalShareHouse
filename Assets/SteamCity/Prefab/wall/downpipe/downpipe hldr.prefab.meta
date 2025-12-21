@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60aaf247f8f62da41b65d6c908b86730
+timeCreated: 1541377857
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/downpipe/downpipe hldr.prefab
+  uploadId: 470862

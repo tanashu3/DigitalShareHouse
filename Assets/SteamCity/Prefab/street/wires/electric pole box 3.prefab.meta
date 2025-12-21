@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae0023ca42c368e4399ee52fbfbd9453
+timeCreated: 1549666682
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/wires/electric pole box 3.prefab
+  uploadId: 470862

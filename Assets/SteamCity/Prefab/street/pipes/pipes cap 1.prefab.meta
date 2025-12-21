@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de3c96eccc11331419c141a49f6c4b0b
+timeCreated: 1549669052
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/pipes/pipes cap 1.prefab
+  uploadId: 470862

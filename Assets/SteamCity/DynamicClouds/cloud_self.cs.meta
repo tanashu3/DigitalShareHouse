@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bf857260d84d3d041b9ee8aa584b4f90
+timeCreated: 1462792332
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/DynamicClouds/cloud_self.cs
+  uploadId: 470862

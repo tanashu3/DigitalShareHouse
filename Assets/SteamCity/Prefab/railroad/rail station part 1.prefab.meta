@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 268d93d8cd1546843addd0a68b49d204
+timeCreated: 1550099943
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rail station part 1.prefab
+  uploadId: 470862

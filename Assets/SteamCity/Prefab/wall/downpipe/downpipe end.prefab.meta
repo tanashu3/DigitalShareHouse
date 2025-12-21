@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1a405e94749551478d9524702c28c1c
+timeCreated: 1541377772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/downpipe/downpipe end.prefab
+  uploadId: 470862

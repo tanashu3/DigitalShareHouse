@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc95f1a6b5f509442928d6cbaf735754
+timeCreated: 1552256325
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/Materials/window.mat
+  uploadId: 470862

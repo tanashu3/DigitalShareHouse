@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 090d7367478e9734582191cf7d06641e
+timeCreated: 1549933579
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/portraitsteampunkman.mat
+  uploadId: 470862

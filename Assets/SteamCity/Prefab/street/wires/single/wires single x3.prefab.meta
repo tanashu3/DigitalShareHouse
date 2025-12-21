@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f338349a51726146a1e388ccff203bc
+timeCreated: 1550337251
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/wires/single/wires single x3.prefab
+  uploadId: 470862

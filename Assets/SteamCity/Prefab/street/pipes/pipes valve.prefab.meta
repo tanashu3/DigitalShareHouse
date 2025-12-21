@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec84be50146ddc64a8daa9c78da97bc6
+timeCreated: 1549669075
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/pipes/pipes valve.prefab
+  uploadId: 470862

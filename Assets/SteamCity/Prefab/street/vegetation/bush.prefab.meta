@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afd7ef1c5858e814295091dae4270e64
+timeCreated: 1549832836
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/vegetation/bush.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e63e0d64751df34bb9bc111902334bc
+timeCreated: 1549755605
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/leaf1.mat
+  uploadId: 470862

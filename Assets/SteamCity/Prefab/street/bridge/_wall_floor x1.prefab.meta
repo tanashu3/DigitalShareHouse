@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f34edab0f57ffb647b7ab3041ba1121d
+timeCreated: 1545263918
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/bridge/_wall_floor x1.prefab
+  uploadId: 470862

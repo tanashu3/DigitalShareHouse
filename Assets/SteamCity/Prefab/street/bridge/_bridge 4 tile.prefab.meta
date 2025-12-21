@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59f0d1266f4415246bf90b62eee63464
+timeCreated: 1546468969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/bridge/_bridge 4 tile.prefab
+  uploadId: 470862

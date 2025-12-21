@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b52e75e09145be4798a7715ef69b51f
+timeCreated: 1550144631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/river down x6.prefab
+  uploadId: 470862

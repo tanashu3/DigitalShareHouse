@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e790d81c401f93e4bbe0f4d56883d59a
+timeCreated: 1546636436
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/windows/big/window 18.prefab
+  uploadId: 470862

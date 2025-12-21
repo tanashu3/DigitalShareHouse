@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0537b2289b0beba479fc9d98e7d62bd2
+timeCreated: 1549589153
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/cable.mat
+  uploadId: 470862

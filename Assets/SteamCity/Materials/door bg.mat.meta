@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c19a28b9966fe4445bd41ad3e2c6762b
+timeCreated: 1546641985
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/door bg.mat
+  uploadId: 470862

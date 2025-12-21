@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a8a0450f7dec9d42a728aa67626d083
+timeCreated: 1550140960
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/roof/roof 1x1 box.prefab
+  uploadId: 470862

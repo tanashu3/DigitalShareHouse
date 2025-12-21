@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1f8748cb3ed1ed4d9ee7e257acc6488
+timeCreated: 1546647146
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/corridor start.prefab
+  uploadId: 470862

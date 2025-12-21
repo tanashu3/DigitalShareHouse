@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7aa2895be748c4848a8b9b6942abc4be
+timeCreated: 1511038221
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/DynamicClouds/PoTCloud.shader
+  uploadId: 470862

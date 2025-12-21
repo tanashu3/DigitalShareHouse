@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5192082028a4ef4c942f55d8e9de0ee
+timeCreated: 1549905170
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/vegetation/bush dwn cap.prefab
+  uploadId: 470862

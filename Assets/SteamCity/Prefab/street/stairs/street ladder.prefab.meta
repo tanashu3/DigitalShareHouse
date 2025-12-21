@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7ba43aa5e6457e4d8e4ee9b3d03b751
+timeCreated: 1542198409
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/stairs/street ladder.prefab
+  uploadId: 470862

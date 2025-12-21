@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a23d0ae3c19e8d42870c4d10e0c4c22
+timeCreated: 1550364624
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/vegetation/fall leaves 3.prefab
+  uploadId: 470862

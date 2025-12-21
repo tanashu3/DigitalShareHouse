@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e31922dec668f644ab0ed34db994d330
+timeCreated: 1547161007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/misc/decor/met decor 03 circle.prefab
+  uploadId: 470862

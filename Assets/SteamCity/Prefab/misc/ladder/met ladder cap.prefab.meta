@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6c022e101a402c40a6143708a59abbd
+timeCreated: 1547158905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/misc/ladder/met ladder cap.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 351807e29e9871a4588affd62e65ad7a
+timeCreated: 1550139595
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer lamp lamp short.prefab
+  uploadId: 470862

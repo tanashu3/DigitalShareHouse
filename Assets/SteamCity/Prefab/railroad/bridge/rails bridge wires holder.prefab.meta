@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6c1d3cef3cca3c4598ba7772a689868
+timeCreated: 1550081774
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/bridge/rails bridge wires holder.prefab
+  uploadId: 470862

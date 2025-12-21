@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a72fc91cbae3cc4686a6143e8517993
+timeCreated: 1487335480
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/PostProcessing/Resources/Shaders/Fog.shader
+  uploadId: 470862

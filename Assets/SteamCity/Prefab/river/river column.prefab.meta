@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e3c29b07e72afe42a24259f43493605
+timeCreated: 1537728640
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/river column.prefab
+  uploadId: 470862

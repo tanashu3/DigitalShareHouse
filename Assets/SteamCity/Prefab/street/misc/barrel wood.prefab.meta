@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7258c750267fd4741baa33369b09f5a0
+timeCreated: 1549891243
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/misc/barrel wood.prefab
+  uploadId: 470862

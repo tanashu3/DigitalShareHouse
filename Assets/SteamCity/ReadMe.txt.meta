@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64ae980607b08d541b162ad248f4965b
+timeCreated: 1551032111
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/ReadMe.txt
+  uploadId: 470862

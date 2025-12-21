@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fae52747089fb55469653eb4df6d3fe9
+timeCreated: 1534632902
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/bridge/bridge tile.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b7aaf24cb833014b87955909ade97b0
+timeCreated: 1550077216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer lamp tile.prefab
+  uploadId: 470862

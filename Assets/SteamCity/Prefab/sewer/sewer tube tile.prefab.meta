@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d339c7398e8491945aa480010b672b2a
+timeCreated: 1549991343
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer tube tile.prefab
+  uploadId: 470862

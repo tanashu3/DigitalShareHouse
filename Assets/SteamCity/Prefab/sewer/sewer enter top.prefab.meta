@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3dd4e1d6c721b634d8d85ba30b2ec002
+timeCreated: 1549991341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer enter top.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ee4094677495464b8d8e0c9a047f308
+timeCreated: 1547603956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/misc/decor/_met decor wall a.prefab
+  uploadId: 470862

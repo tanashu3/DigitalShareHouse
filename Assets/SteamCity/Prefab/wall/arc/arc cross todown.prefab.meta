@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d91f16ccf87bcf418729e2865c121a9
+timeCreated: 1545078981
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/arc/arc cross todown.prefab
+  uploadId: 470862

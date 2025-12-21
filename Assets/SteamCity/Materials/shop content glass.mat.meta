@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d490ad32932f5df4db51db639ae85eda
+timeCreated: 1549245433
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/shop content glass.mat
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b29c1e31475c4ed41916c54c651a4b5d
+timeCreated: 1547666245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/tower/met tower cap.prefab
+  uploadId: 470862

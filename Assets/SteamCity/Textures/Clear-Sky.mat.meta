@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cab21b9ae5c8d88468f5e8b847975fa1
+timeCreated: 1549908901
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Textures/Clear-Sky.mat
+  uploadId: 470862

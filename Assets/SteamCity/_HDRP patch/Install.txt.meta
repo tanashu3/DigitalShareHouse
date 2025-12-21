@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b93158d44df2c24c80ca6e552c99287
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/_HDRP patch/Install.txt
+  uploadId: 470862

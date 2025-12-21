@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60fced9c00103c943bc1c52b4362fc67
+timeCreated: 1511264843
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/demoUIcanvas.prefab
+  uploadId: 470862

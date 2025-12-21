@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67b342cd861e687468ef0dbd2b309bfd
+timeCreated: 1549414004
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/bridge/construct/bridge 3 arc.prefab
+  uploadId: 470862

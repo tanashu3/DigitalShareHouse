@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ff3fd5e23fbad14d897f616e383e3d3
+timeCreated: 1550080773
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/bridge/rails bridge pillar arc.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8cf826cd4af1bf4897fbe8ca21270d1
+timeCreated: 1540411674
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/metals3_Albedo.mat
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0caca5938edf4964088b0060ccb970bc
+timeCreated: 1539642977
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/bench.prefab
+  uploadId: 470862

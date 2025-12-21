@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fab65e42576860945a249c0a8f36b8ea
+timeCreated: 1549991725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer dwn cap.prefab
+  uploadId: 470862

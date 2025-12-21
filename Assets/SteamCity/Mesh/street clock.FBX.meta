@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 5909e46453b4c6f4084b9d3c69087a1e
+timeCreated: 1547346000
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arrow h
+    100002: arrow h2
+    100004: arrow h3
+    100006: arrow h4
+    100008: arrow m
+    100010: arrow m2
+    100012: arrow m3
+    100014: arrow m4
+    100016: Object723
+    100018: //RootNode
+    400000: arrow h
+    400002: arrow h2
+    400004: arrow h3
+    400006: arrow h4
+    400008: arrow m
+    400010: arrow m2
+    400012: arrow m3
+    400014: arrow m4
+    400016: Object723
+    400018: //RootNode
+    2300000: arrow h
+    2300002: arrow h2
+    2300004: arrow h3
+    2300006: arrow h4
+    2300008: arrow m
+    2300010: arrow m2
+    2300012: arrow m3
+    2300014: arrow m4
+    2300016: Object723
+    3300000: arrow h
+    3300002: arrow h2
+    3300004: arrow h3
+    3300006: arrow h4
+    3300008: arrow m
+    3300010: arrow m2
+    3300012: arrow m3
+    3300014: arrow m4
+    3300016: Object723
+    4300000: Object723
+    4300002: arrow h4
+    4300004: arrow m4
+    4300006: arrow m3
+    4300008: arrow h3
+    4300010: arrow m2
+    4300012: arrow h2
+    4300014: arrow m
+    4300016: arrow h
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/street clock.FBX
+  uploadId: 470862

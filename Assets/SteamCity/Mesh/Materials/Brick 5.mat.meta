@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d17db867491737041ae455390e65b420
+timeCreated: 1552256325
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/Materials/Brick 5.mat
+  uploadId: 470862

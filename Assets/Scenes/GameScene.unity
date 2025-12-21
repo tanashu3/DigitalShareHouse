@@ -14,19 +14,19 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  m_Fog: 0
-  m_FogColor: {r: 0.45024434, g: 0.4956033, b: 0.5145029, a: 1}
-  m_FogMode: 2
-  m_FogDensity: 0.005
-  m_LinearFogStart: 0
-  m_LinearFogEnd: 113.9
+  m_Fog: 1
+  m_FogColor: {r: 0.9302243, g: 0.97795033, b: 0.9811321, a: 1}
+  m_FogMode: 1
+  m_FogDensity: 0.0003125
+  m_LinearFogStart: 250
+  m_LinearFogEnd: 1000
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 1
+  m_AmbientIntensity: 1.5
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 2da1a3b872ccaa8408174ba034d766a9, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -147,7 +147,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 0.9595513, b: 0.9021402, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -210,7 +210,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 294502594}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.21390767, y: 0.15608226, z: -0.034645475, w: 0.9636812}
+  m_LocalRotation: {x: 0.31902513, y: -0.24429499, z: 0.08548252, w: 0.9117213}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b26c0a9f25c353448bec5ce4f9063710, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipMovement
-  moveSpeed: 3
+  moveSpeed: 20
 --- !u!1 &1287606581
 GameObject:
   m_ObjectHideFlags: 0
@@ -490,6 +490,94 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1287606581}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1442518555
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1442518557}
+  - component: {fileID: 1442518556}
+  m_Layer: 0
+  m_Name: Celestial Time Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1442518556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442518555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84eaf297dac5bd4c9e9044d02042adb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CelestialCyclesSystem.CelestialTimeManager
+  Trigger: 1
+  updateGI: 1
+  giUpdateInterval: 0.2
+  shaderUpdateInterval: 0.1
+  timeOfDaySlider: {fileID: 0}
+  timeText: {fileID: 0}
+  currentTimeOfDay: 6
+  timeSpeed: 0
+  sunriseTime: 5
+  sunriseDuration: 1
+  sunsetTime: 19
+  sunsetDuration: 1
+  sunIntensity: 1
+  shadowIntensity: 0.85
+  moonIntensity: 0.3
+  shouldWindChange: 0
+  windChangeInterval: 1
+  currentWindDirection: 0
+  maxWindDirectionChange: 0
+  sunTransform: {fileID: 294502596}
+  sceneSkybox: {fileID: 2100000, guid: 2da1a3b872ccaa8408174ba034d766a9, type: 2}
+  sunAzimuth: -30
+  sunriseOffset: 30
+  sunsetOffset: 30
+  skyboxIntensityModifier: 1
+  weatherModifier: 1
+  seasonModifier: 1
+  fogEnabled: 1
+  fogMode: 1
+  fogDistance: 5
+  overrideCloudControl: 1
+  CloudColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  DarkSky: 0.2
+  BlendCloud: 0.4
+  AmbientCloudProperty: {x: 1, y: 1, z: 1, w: 1}
+  AmbientCloudSpeed: 0.5
+  CloudScale_01: 1
+  CloudScale_02: 1
+  CloudAmount: 0.5
+  CloudIntensity: 1
+  CloudLayerIntensity01: 1
+  CloudLayerIntensity02: 1
+  CloudSpeed: 1
+  timeOfDayController: {fileID: 11400000, guid: bccd84e96064743408ce5c84e4acc024, type: 2}
+--- !u!4 &1442518557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442518555}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -608,14 +696,14 @@ MonoBehaviour:
   trackingTarget: {fileID: 543303702}
   shipMovement: {fileID: 543303704}
   islandPrefabs:
-  - {fileID: 8735886366330395984, guid: 96a400e07bdf79f4caeadd8b10e3ed67, type: 3}
+  - {fileID: 8735886366330395984, guid: f2500d839ac4dce4d8c08c83543a3155, type: 3}
   oceanTilePrefab: {fileID: 9207654558737106432, guid: 69962d4f99503df40aa2f6159df605c0, type: 3}
-  islandBaseHeight: 10
+  islandBaseHeight: -5
   oceanBaseHeight: 0
   oceanTileSize: 150
   generationDistance: 100
   deletionDistance: 200
-  oceanKeepRadius: 100
+  oceanKeepRadius: 200
 --- !u!4 &1723438176
 Transform:
   m_ObjectHideFlags: 0
@@ -641,3 +729,4 @@ SceneRoots:
   - {fileID: 1287606582}
   - {fileID: 299186387}
   - {fileID: 543303702}
+  - {fileID: 1442518557}

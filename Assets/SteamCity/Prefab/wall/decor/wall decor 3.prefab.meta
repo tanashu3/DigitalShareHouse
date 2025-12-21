@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cbe4374eca03e44b924058d9eca35a9
+timeCreated: 1540246686
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/decor/wall decor 3.prefab
+  uploadId: 470862

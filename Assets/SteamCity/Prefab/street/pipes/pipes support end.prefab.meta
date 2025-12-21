@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ae5114ebd6ce934a879f72ca28f1a00
+timeCreated: 1549891068
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/pipes/pipes support end.prefab
+  uploadId: 470862

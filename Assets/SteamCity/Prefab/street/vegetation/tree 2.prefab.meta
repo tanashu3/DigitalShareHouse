@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50f0b6d11f52c9d4d81f57cd884ebea0
+timeCreated: 1549834887
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/vegetation/tree 2.prefab
+  uploadId: 470862

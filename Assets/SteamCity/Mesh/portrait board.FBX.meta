@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: db2fd9b18ed551f41a06debbb7a26a7e
+timeCreated: 1549933579
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box490
+    100002: Box500
+    100004: Object1108
+    100006: //RootNode
+    100008: Object1113
+    100010: Object1128
+    100012: glass
+    100014: Object
+    100016: pic
+    100018: pic 1
+    400000: Box490
+    400002: Box500
+    400004: Object1108
+    400006: //RootNode
+    400008: Object1113
+    400010: Object1128
+    400012: glass
+    400014: Object
+    400016: pic
+    400018: pic 1
+    2300000: Box490
+    2300002: Box500
+    2300004: Object1108
+    2300006: Object1113
+    2300008: Object1128
+    2300010: glass
+    2300012: Object
+    2300014: pic
+    2300016: pic 1
+    3300000: Box490
+    3300002: Box500
+    3300004: Object1108
+    3300006: Object1113
+    3300008: Object1128
+    3300010: glass
+    3300012: Object
+    3300014: pic
+    3300016: pic 1
+    4300000: Box500
+    4300002: Box490
+    4300004: Object1108
+    4300006: Object1113
+    4300008: Object1128
+    4300010: Object
+    4300012: pic
+    4300014: pic
+    4300016: glass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/portrait board.FBX
+  uploadId: 470862

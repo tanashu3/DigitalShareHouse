@@ -1,0 +1,2 @@
+- double click 'SteamCity hdrp'
+- install hdrp: Window > Package Manager > hdrp.

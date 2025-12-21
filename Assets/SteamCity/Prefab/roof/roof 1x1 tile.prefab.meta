@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 761604b8b2cf6424fa79f9d70abfdc93
+timeCreated: 1546473628
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/roof/roof 1x1 tile.prefab
+  uploadId: 470862

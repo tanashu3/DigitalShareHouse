@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f1f060756ba46b49adaec8e814a87e0
+timeCreated: 1550349076
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/ivy.mat
+  uploadId: 470862

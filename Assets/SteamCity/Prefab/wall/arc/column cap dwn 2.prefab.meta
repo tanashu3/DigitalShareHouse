@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfad400f31036474cbe8736e75196ef8
+timeCreated: 1545308140
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/arc/column cap dwn 2.prefab
+  uploadId: 470862

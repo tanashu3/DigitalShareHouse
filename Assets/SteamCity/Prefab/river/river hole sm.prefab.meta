@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa31bd3f34290fe43b3760e24439642b
+timeCreated: 1537728631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/river hole sm.prefab
+  uploadId: 470862

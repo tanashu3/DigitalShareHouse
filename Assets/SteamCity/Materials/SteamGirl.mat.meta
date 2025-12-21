@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e45c08df88e1f0d43917ea1a35c82441
+timeCreated: 1550531340
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/SteamGirl.mat
+  uploadId: 470862

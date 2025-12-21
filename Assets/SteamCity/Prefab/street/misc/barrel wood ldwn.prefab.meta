@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2d0c8f83ef2b4742b1439019a341016
+timeCreated: 1549891492
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/misc/barrel wood ldwn.prefab
+  uploadId: 470862

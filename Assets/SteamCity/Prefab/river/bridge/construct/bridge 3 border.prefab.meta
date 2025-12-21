@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 949b49d29c4a8d445ad0ce805a4d4952
+timeCreated: 1549413994
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/bridge/construct/bridge 3 border.prefab
+  uploadId: 470862

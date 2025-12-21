@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86e4a9117132a9844b68951c177937d6
+timeCreated: 1544818959
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/bridgelike/wall arc constr tile.prefab
+  uploadId: 470862

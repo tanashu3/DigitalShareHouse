@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 160e5dbf0c56ee24cb366aa03c516785
+timeCreated: 1534021758
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/swappable/window a.mat
+  uploadId: 470862

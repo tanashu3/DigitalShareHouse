@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb8b74efa1ce2324daa135b746e15d6c
+timeCreated: 1545253916
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/bridge/_bridge 2 pillar.prefab
+  uploadId: 470862

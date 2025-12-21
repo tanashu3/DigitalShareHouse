@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe02f008f5c06984daec1bd31fc1bf67
+timeCreated: 1548370004
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/train/vagon end 2.prefab
+  uploadId: 470862

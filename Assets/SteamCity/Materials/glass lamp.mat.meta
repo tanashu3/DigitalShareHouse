@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f883b6889d161b54db17b26082bb9feb
+timeCreated: 1539982648
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/glass lamp.mat
+  uploadId: 470862

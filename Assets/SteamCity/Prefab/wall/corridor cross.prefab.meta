@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78d8070382c5bf14e874a6c72b620ee1
+timeCreated: 1546648315
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/corridor cross.prefab
+  uploadId: 470862

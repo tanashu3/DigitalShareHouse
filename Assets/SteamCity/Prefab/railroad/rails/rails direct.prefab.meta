@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 449e64fa80da9304790207c9eca666ae
+timeCreated: 1548780875
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rails/rails direct.prefab
+  uploadId: 470862

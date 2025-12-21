@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ccb12a3660b9a74cb209d6742d90ecb
+timeCreated: 1549663915
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/wires/electric pole wires long 2.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0190bc304cff0f4797e60324a236045
+timeCreated: 1549931858
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/misc2.mat
+  uploadId: 470862

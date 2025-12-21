@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ea3732fb8dc73c469c5b002e11f2c40
+timeCreated: 1550172135
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/decor/wall decor h helper.prefab
+  uploadId: 470862

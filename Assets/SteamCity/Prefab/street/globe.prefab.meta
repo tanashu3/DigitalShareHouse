@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a81c86ac90917f7478c4bf58b0b5b5c1
+timeCreated: 1547384380
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/globe.prefab
+  uploadId: 470862

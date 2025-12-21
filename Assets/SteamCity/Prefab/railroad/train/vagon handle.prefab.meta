@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f18d556b051289a4087ab450b16d1c99
+timeCreated: 1550699589
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/train/vagon handle.prefab
+  uploadId: 470862

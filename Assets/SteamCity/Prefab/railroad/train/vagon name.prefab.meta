@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6d2f8390a3eecb47a3ec88cf8ab0842
+timeCreated: 1548369629
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/train/vagon name.prefab
+  uploadId: 470862

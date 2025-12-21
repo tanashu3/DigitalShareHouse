@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 415007a253dbda147aea8a62471b36a5
+timeCreated: 1538601695
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/river ladder.prefab
+  uploadId: 470862

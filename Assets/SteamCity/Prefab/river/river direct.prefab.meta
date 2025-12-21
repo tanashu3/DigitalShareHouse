@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65fd17f8389e41248af58596ff8e2cd4
+timeCreated: 1534633580
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/river direct.prefab
+  uploadId: 470862

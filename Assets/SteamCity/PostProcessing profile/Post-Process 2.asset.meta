@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cb5a81c496c862458d24b5866704d47
+timeCreated: 1533947529
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/PostProcessing profile/Post-Process 2.asset
+  uploadId: 470862

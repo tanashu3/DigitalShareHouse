@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee70eccaa4c1db94baeb243be653795d
+timeCreated: 1552256328
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/Materials/metals 6.mat
+  uploadId: 470862

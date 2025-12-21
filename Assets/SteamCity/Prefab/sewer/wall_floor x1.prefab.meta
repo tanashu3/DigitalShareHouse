@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38e2d6dec2c56e1438e72c4aa2ed7656
+timeCreated: 1549991458
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/wall_floor x1.prefab
+  uploadId: 470862

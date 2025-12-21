@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 950b4add3a92bc346989cfa6c19f65c5
+timeCreated: 1549991900
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/corridor tile.prefab
+  uploadId: 470862

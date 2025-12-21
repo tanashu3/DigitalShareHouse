@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b18e59e5cfa35184caf5b038a541a104
+timeCreated: 1534634088
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/decor/wall decor dwn cap.prefab
+  uploadId: 470862

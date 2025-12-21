@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: faeb926711048954ba54130086ae71aa
+labels:
+- city
+- dieselpunk
+- fantasy
+- retro
+- sci-fi
+- steampunk
+- vintage
+timeCreated: 1550536790
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/_DemoScene/GirlScene.unity
+  uploadId: 470862

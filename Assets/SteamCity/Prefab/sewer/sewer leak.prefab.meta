@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6053696a7ae974845b978ae216aa0f99
+timeCreated: 1550706224
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer leak.prefab
+  uploadId: 470862

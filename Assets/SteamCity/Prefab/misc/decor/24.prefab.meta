@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd59bdc718575bb4f87c6d9858578d1c
+timeCreated: 1550780310
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/misc/decor/24.prefab
+  uploadId: 470862

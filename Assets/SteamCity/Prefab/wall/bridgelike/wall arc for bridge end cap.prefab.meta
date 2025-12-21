@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46b3addf635f9834dacfbba85e797f54
+timeCreated: 1545259808
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/bridgelike/wall arc for bridge end cap.prefab
+  uploadId: 470862

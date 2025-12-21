@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 511864fb7abe9494aa173285d09736ff
+timeCreated: 1550102755
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/bridge/bridge 3 weld.prefab
+  uploadId: 470862

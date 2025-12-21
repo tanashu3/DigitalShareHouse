@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f78385077a8302a4fad0a673d90e0c35
+timeCreated: 1549668468
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/pipes/pipes angle bg.prefab
+  uploadId: 470862

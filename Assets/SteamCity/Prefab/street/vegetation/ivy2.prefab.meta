@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd71abd971d48074e8950d5db09638b6
+timeCreated: 1550353694
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/vegetation/ivy2.prefab
+  uploadId: 470862

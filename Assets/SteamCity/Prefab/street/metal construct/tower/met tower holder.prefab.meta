@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd0002566eb49884f81c111ccc369945
+timeCreated: 1547595962
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/metal construct/tower/met tower holder.prefab
+  uploadId: 470862

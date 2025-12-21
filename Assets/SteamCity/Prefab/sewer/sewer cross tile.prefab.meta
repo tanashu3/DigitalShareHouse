@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33192e2b4dbaca74a927ad3867492ec4
+timeCreated: 1549991347
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer cross tile.prefab
+  uploadId: 470862

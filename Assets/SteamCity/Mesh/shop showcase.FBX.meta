@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 44bb5af7369a6d5478e3c415a7bb267d
+timeCreated: 1541358601
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box102
+    100002: Box106
+    100004: Box107
+    100006: canopy
+    100008: Cylinder033
+    100010: drw glass
+    100012: drw glass001
+    100014: glass
+    100016: Object055
+    100018: Object064
+    100020: Object065
+    100022: Object066
+    100024: Object067
+    100026: pitcher
+    100028: Plane147
+    100030: Plane149
+    100032: Plane151
+    100034: //RootNode
+    100036: yawer light
+    100038: Plane201
+    100040: Plane202
+    400000: Box102
+    400002: Box106
+    400004: Box107
+    400006: canopy
+    400008: Cylinder033
+    400010: drw glass
+    400012: drw glass001
+    400014: glass
+    400016: Object055
+    400018: Object064
+    400020: Object065
+    400022: Object066
+    400024: Object067
+    400026: pitcher
+    400028: Plane147
+    400030: Plane149
+    400032: Plane151
+    400034: //RootNode
+    400036: yawer light
+    400038: Plane201
+    400040: Plane202
+    2300000: Box102
+    2300002: Box106
+    2300004: Box107
+    2300006: canopy
+    2300008: Cylinder033
+    2300010: drw glass
+    2300012: drw glass001
+    2300014: glass
+    2300016: Object055
+    2300018: Object064
+    2300020: Object065
+    2300022: Object066
+    2300024: Object067
+    2300026: pitcher
+    2300028: Plane147
+    2300030: Plane149
+    2300032: Plane151
+    2300034: yawer light
+    2300036: Plane201
+    2300038: Plane202
+    3300000: Box102
+    3300002: Box106
+    3300004: Box107
+    3300006: canopy
+    3300008: Cylinder033
+    3300010: drw glass
+    3300012: drw glass001
+    3300014: glass
+    3300016: Object055
+    3300018: Object064
+    3300020: Object065
+    3300022: Object066
+    3300024: Object067
+    3300026: pitcher
+    3300028: Plane147
+    3300030: Plane149
+    3300032: Plane151
+    3300034: yawer light
+    3300036: Plane201
+    3300038: Plane202
+    4300000: Object065
+    4300002: Box102
+    4300004: pitcher
+    4300006: yawer light
+    4300008: Plane147
+    4300010: Box106
+    4300012: Box107
+    4300014: Cylinder033
+    4300016: Object055
+    4300018: Object064
+    4300020: canopy
+    4300022: Plane149
+    4300024: Plane151
+    4300026: Object066
+    4300028: glass
+    4300030: Object067
+    4300032: drw glass
+    4300034: drw glass001
+    4300036: Plane201
+    4300038: Plane202
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Mesh/shop showcase.FBX
+  uploadId: 470862

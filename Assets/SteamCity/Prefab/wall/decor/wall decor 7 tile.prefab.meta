@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cff23eba8613f44180536766dbcef54
+timeCreated: 1540252921
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/decor/wall decor 7 tile.prefab
+  uploadId: 470862

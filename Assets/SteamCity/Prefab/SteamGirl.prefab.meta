@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e186265b07903e34a9b82f06b2d4c4ef
+timeCreated: 1550533162
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/SteamGirl.prefab
+  uploadId: 470862

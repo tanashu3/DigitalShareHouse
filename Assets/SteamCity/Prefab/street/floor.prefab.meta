@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 174ea4b10e8f2674887b0d04cb71043c
+timeCreated: 1534118554
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/floor.prefab
+  uploadId: 470862

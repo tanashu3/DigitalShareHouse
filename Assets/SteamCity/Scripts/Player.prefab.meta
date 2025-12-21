@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d608f5f0d07ba34caaa573a25d56871
+timeCreated: 1515452941
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Scripts/Player.prefab
+  uploadId: 470862

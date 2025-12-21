@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f76795993be8f5645949594cea25e072
+timeCreated: 1549933972
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer corridor tile.prefab
+  uploadId: 470862

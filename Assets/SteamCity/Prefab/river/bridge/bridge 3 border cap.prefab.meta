@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a9d0e227065aa441a182ca604053404
+timeCreated: 1549414267
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/river/bridge/bridge 3 border cap.prefab
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a049356d692aaa6438c0e49cd3006461
+timeCreated: 1548283881
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/vagon2.mat
+  uploadId: 470862

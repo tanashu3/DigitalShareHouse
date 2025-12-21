@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc5490fe67f588d44b62922c8ddbeb1c
+timeCreated: 1541358600
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/roof.mat
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49870800cbacf6446adcd46357ca4e49
+timeCreated: 1549891299
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/misc/crate.prefab
+  uploadId: 470862

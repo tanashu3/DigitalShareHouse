@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d39f229d9fb614a9b86b29a87c53ae
+timeCreated: 1549991346
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/sewer/sewer enter down.prefab
+  uploadId: 470862

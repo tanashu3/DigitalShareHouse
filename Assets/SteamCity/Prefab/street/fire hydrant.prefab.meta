@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5fd238487432be45b836c6ca7b89d2a
+timeCreated: 1549409516
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/fire hydrant.prefab
+  uploadId: 470862

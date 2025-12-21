@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8d1fc59c82c2f241b1ce8f56fd951ca
+timeCreated: 1551022057
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/_DemoScene/CityScene/LightingData.asset
+  uploadId: 470862

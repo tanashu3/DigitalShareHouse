@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c43f50e200d6f1c418386bb57d62e38f
+timeCreated: 1534633905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/arc/column 2.prefab
+  uploadId: 470862

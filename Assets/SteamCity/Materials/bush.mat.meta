@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8bf9038930a43f43a36ffd8ab06b778
+timeCreated: 1549755605
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/bush.mat
+  uploadId: 470862

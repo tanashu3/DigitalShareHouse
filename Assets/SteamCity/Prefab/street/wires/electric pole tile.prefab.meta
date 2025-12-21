@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5dfdb445030c90c419d43c457c6a3b54
+timeCreated: 1549663911
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/wires/electric pole tile.prefab
+  uploadId: 470862

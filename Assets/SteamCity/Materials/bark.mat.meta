@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a7f5d178b0cbb64fb506e821eba530b
+timeCreated: 1549755605
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/bark.mat
+  uploadId: 470862

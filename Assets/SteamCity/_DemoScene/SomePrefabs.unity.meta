@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eeaf2833419b2a34e9891eb8a972ca24
+labels:
+- city
+- dieselpunk
+- fantasy
+- retro
+- sci-fi
+- steampunk
+- vintage
+timeCreated: 1551023403
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/_DemoScene/SomePrefabs.unity
+  uploadId: 470862

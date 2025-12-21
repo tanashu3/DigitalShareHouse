@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5f7cd733cf27f54a91a7d0be032c90b
+timeCreated: 1533851178
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Materials/swappable/Brick 7.mat
+  uploadId: 470862

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e79d12716a7c24d439dc0027cb376ead
+timeCreated: 1550181080
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/tower clock.prefab
+  uploadId: 470862

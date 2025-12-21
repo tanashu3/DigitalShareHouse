@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d2c766e99f8d946b06858e9f0aa486
+timeCreated: 1550712341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/street/pipes/pipes direct third.prefab
+  uploadId: 470862

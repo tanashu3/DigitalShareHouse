@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba56c48061c58ed4583d510a976d5dd1
+timeCreated: 1550186669
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/railroad/rails platform tile.prefab
+  uploadId: 470862

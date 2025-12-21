@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc209011e2ad920458db1df489cd0f72
+timeCreated: 1544819969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/wall/wall x2.prefab
+  uploadId: 470862

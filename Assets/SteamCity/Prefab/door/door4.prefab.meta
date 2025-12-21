@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d227fb24f4e316b4697d5eec02067224
+timeCreated: 1549488017
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136199
+  packageName: Steam City - steampunk
+  packageVersion: 1.2
+  assetPath: Assets/SteamCity/Prefab/door/door4.prefab
+  uploadId: 470862
