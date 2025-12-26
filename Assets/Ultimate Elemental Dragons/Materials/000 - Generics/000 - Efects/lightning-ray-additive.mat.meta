@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c58173f904bccb64ba973b7432aa7109
+timeCreated: 1511533922
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289983
+  packageName: Big Draco Light
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Elemental Dragons/Materials/000 - Generics/000 - Efects/lightning-ray-additive.mat
+  uploadId: 678156

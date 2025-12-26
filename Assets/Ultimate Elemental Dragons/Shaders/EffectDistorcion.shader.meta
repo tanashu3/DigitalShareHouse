@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec28860666cdc1e44844983efd1f72a1
+timeCreated: 1477990117
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289983
+  packageName: Big Draco Light
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Elemental Dragons/Shaders/EffectDistorcion.shader
+  uploadId: 678156

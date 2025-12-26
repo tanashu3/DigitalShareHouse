@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 815f1c951c06cba4c8921b0ad8950ada
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289983
+  packageName: Big Draco Light
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Elemental Dragons/Sounds/001 - Dragons/004 - Footsteps
+    01.wav
+  uploadId: 678156

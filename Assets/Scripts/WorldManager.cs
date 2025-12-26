@@ -1,61 +1,61 @@
-using MicroWorldNS;
+ï»¿using MicroWorldNS;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WorldManager : MonoBehaviour // ƒNƒ‰ƒX–¼‚ÍWorldManager‚Ì‚Ü‚Ü‚Æ‚µ‚Ü‚·
+public class WorldManager : MonoBehaviour // ã‚¯ãƒ©ã‚¹åã¯WorldManagerã®ã¾ã¾ã¨ã—ã¾ã™
 {
-    [Header("’ÇÕ‘ÎÛ")]
-    [Tooltip("’nŒ`¶¬‚Ì’†S‚Æ‚È‚éƒIƒuƒWƒFƒNƒgi‘D‚È‚Çj")]
+    [Header("è¿½è·¡å¯¾è±¡")]
+    [Tooltip("åœ°å½¢ç”Ÿæˆã®ä¸­å¿ƒã¨ãªã‚‹ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆï¼ˆèˆ¹ãªã©ï¼‰")]
     [SerializeField] private Transform trackingTarget;
-    [Tooltip("‘D‚ÌˆÚ“®‚ğŠÇ—‚·‚éShipMovementƒXƒNƒŠƒvƒg")]
+    [Tooltip("èˆ¹ã®ç§»å‹•ã‚’ç®¡ç†ã™ã‚‹ShipMovementã‚¹ã‚¯ãƒªãƒ—ãƒˆ")]
     [SerializeField] private ShipMovement shipMovement;
 
-    [Header("“‡ƒvƒŒƒnƒuİ’è")]
+    [Header("å³¶ãƒ—ãƒ¬ãƒãƒ–è¨­å®š")]
     [SerializeField] private List<MicroWorld> islandPrefabs;
 
-    [Header("ŠCƒvƒŒƒnƒuİ’è")]
+    [Header("æµ·ãƒ—ãƒ¬ãƒãƒ–è¨­å®š")]
     [SerializeField] private GameObject oceanTilePrefab;
 
-    [Header("ƒ[ƒ‹ƒh¶¬İ’è")]
+    [Header("ãƒ¯ãƒ¼ãƒ«ãƒ‰ç”Ÿæˆè¨­å®š")]
     [SerializeField] private float islandBaseHeight = 30f;
     [SerializeField] private float oceanBaseHeight = 0f;
     [SerializeField] private float oceanTileSize = 150f;
 
-    [Header("“‡ ¶¬Eíœƒ‹[ƒ‹")]
+    [Header("å³¶ ç”Ÿæˆãƒ»å‰Šé™¤ãƒ«ãƒ¼ãƒ«")]
     [SerializeField] private float generationDistance = 100f;
-    // Tooltip‚ğ•ª‚©‚è‚â‚·‚­•ÏX
-    [Tooltip("‚±‚Ì‹——£‚¾‚¯‘D‚ÌwŒã•ûx‚É‚È‚Á‚½“‡‚ğíœ‚µ‚Ü‚·")]
-    [SerializeField] private float deletionDistance = 200f; // ƒfƒtƒHƒ‹ƒg’l‚ğ200‚É•ÏX
+    // Tooltipã‚’åˆ†ã‹ã‚Šã‚„ã™ãå¤‰æ›´
+    [Tooltip("ã“ã®è·é›¢ã ã‘èˆ¹ã®ã€å¾Œæ–¹ã€ã«ãªã£ãŸå³¶ã‚’å‰Šé™¤ã—ã¾ã™")]
+    [SerializeField] private float deletionDistance = 200f; // ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã‚’200ã«å¤‰æ›´
 
-    [Header("ŠC‚ÌŠÇ—İ’è")]
-    [Tooltip("‘D‚©‚ç‚±‚Ì”¼Œa‚ÌŠO‘¤‚É‚ ‚éŠC‚Ìƒ^ƒCƒ‹‚ğíœ‚µ‚Ü‚·")]
+    [Header("æµ·ã®ç®¡ç†è¨­å®š")]
+    [Tooltip("èˆ¹ã‹ã‚‰ã“ã®åŠå¾„ã®å¤–å´ã«ã‚ã‚‹æµ·ã®ã‚¿ã‚¤ãƒ«ã‚’å‰Šé™¤ã—ã¾ã™")]
     [SerializeField] private float oceanKeepRadius = 150f;
 
-    // --- “à•”•Ï” ---
+    // --- å†…éƒ¨å¤‰æ•° ---
     private MicroWorld currentIsland;
     private bool isSwitchingWorlds = false;
     private Dictionary<Vector2Int, GameObject> oceanTilesByCoords = new Dictionary<Vector2Int, GameObject>();
     private Vector2Int currentTargetCoords;
-    private bool initialSpawnComplete = false; // Å‰‚Ì¶¬‚ªŠ®—¹‚µ‚½‚©‚ğŠÇ—‚·‚éƒtƒ‰ƒO
+    private bool initialSpawnComplete = false; // æœ€åˆã®ç”ŸæˆãŒå®Œäº†ã—ãŸã‹ã‚’ç®¡ç†ã™ã‚‹ãƒ•ãƒ©ã‚°
 
     private void Start()
     {
         if (trackingTarget == null || shipMovement == null || islandPrefabs == null || islandPrefabs.Count == 0 || oceanTilePrefab == null)
         {
-            Debug.LogError("WorldManager‚É•K—v‚Èİ’è‚ª‚³‚ê‚Ä‚¢‚Ü‚¹‚ñBƒCƒ“ƒXƒyƒNƒ^[‚ğŠm”F‚µ‚Ä‚­‚¾‚³‚¢B");
+            Debug.LogError("WorldManagerã«å¿…è¦ãªè¨­å®šãŒã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚ã‚¤ãƒ³ã‚¹ãƒšã‚¯ã‚¿ãƒ¼ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚");
             return;
         }
 
-        Debug.Log("--- ƒQ[ƒ€ŠJn: Å‰‚Ì“‡‚ğ¶¬‚µ‚Ü‚· ---");
+        Debug.Log("--- ã‚²ãƒ¼ãƒ é–‹å§‹: æœ€åˆã®å³¶ã‚’ç”Ÿæˆã—ã¾ã™ ---");
         Vector3 initialSpawnPos = trackingTarget.TransformPoint(new Vector3(0, 0, generationDistance));
-        // ‚±‚±‚Å‚Í¶¬‚ğŠJn‚·‚é‚¾‚¯‚ÅAŠ®—¹‚ğ‘Ò‚½‚È‚¢
+        // ã“ã“ã§ã¯ç”Ÿæˆã‚’é–‹å§‹ã™ã‚‹ã ã‘ã§ã€å®Œäº†ã‚’å¾…ãŸãªã„
         StartCoroutine(SpawnNewIslandRoutine(initialSpawnPos));
     }
 
     private void Update()
     {
-        // Å‰‚Ì¶¬‚ªŠ®—¹‚·‚é‚Ü‚Å‚ÍUpdate‚Ì”»’è‚às‚í‚È‚¢
+        // æœ€åˆã®ç”ŸæˆãŒå®Œäº†ã™ã‚‹ã¾ã§ã¯Updateã®åˆ¤å®šã‚‚è¡Œã‚ãªã„
         if (!initialSpawnComplete || isSwitchingWorlds || currentIsland == null || !currentIsland.IsBuilt)
         {
             return;
@@ -86,15 +86,15 @@ public class WorldManager : MonoBehaviour // ƒNƒ‰ƒX–¼‚ÍWorldManager‚Ì‚Ü‚Ü‚Æ‚µ‚Ü‚
     {
         MicroWorld prefabToBuild = islandPrefabs[Random.Range(0, islandPrefabs.Count)];
 
-        // ƒvƒŒƒnƒu‚Íˆê’UAŒ´“_‚É¶¬‚µ‚Ü‚·iˆÊ’u‚Í’¼Œã‚ÉBuildAtPositionAsync‚Åw’è‚·‚é‚½‚ßj
+        // ãƒ—ãƒ¬ãƒãƒ–ã¯ä¸€æ—¦ã€åŸç‚¹ã«ç”Ÿæˆã—ã¾ã™ï¼ˆä½ç½®ã¯ç›´å¾Œã«BuildAtPositionAsyncã§æŒ‡å®šã™ã‚‹ãŸã‚ï¼‰
         currentIsland = Instantiate(prefabToBuild, Vector3.zero, Quaternion.identity);
 
-        // YÀ•W‚¾‚¯İ’è‚µ’¼‚·
+        // Yåº§æ¨™ã ã‘è¨­å®šã—ç›´ã™
         Vector3 spawnPosition = new Vector3(position.x, islandBaseHeight, position.z);
 
         currentIsland.Seed = (int)(spawnPosition.x + spawnPosition.z);
 
-        // V‚µ‚­ì‚Á‚½–½—ß‚ğg‚¢Au‚±‚ÌÀ•W‚É’nŒ`‚ğì‚êv‚Æ–¾Šm‚Éw¦‚µ‚Ü‚·
+        // æ–°ã—ãä½œã£ãŸå‘½ä»¤ã‚’ä½¿ã„ã€ã€Œã“ã®åº§æ¨™ã«åœ°å½¢ã‚’ä½œã‚Œã€ã¨æ˜ç¢ºã«æŒ‡ç¤ºã—ã¾ã™
         currentIsland.BuildAtPositionAsync(spawnPosition, null, false);
 
         while (currentIsland != null && !currentIsland.IsBuilt)
@@ -109,13 +109,13 @@ public class WorldManager : MonoBehaviour // ƒNƒ‰ƒX–¼‚ÍWorldManager‚Ì‚Ü‚Ü‚Æ‚µ‚Ü‚
                 currentIsland.Terrain.gameObject.SetActive(true);
             }
 
-            // --- ššš‚±‚±‚ªd—vššš ---
-            // ‚à‚µÅ‰‚Ì¶¬‚ª‚Ü‚¾Š®—¹‚µ‚Ä‚¢‚È‚¯‚ê‚ÎA‚±‚±‚Å‘D‚ÆŠC‚ğn“®‚³‚¹‚é
+            // --- â˜…â˜…â˜…ã“ã“ãŒé‡è¦â˜…â˜…â˜… ---
+            // ã‚‚ã—æœ€åˆã®ç”ŸæˆãŒã¾ã å®Œäº†ã—ã¦ã„ãªã‘ã‚Œã°ã€ã“ã“ã§èˆ¹ã¨æµ·ã‚’å§‹å‹•ã•ã›ã‚‹
             if (!initialSpawnComplete)
             {
                 initialSpawnComplete = true;
-                Debug.Log("Å‰‚Ì“‡‚Ì€”õŠ®—¹B‘D‚ÌˆÚ“®‚ÆŠC‚ÌŠÇ—‚ğŠJn‚µ‚Ü‚·B");
-                shipMovement.StartMoving();
+                Debug.Log("æœ€åˆã®å³¶ã®æº–å‚™å®Œäº†ã€‚èˆ¹ã®ç§»å‹•ã¨æµ·ã®ç®¡ç†ã‚’é–‹å§‹ã—ã¾ã™ã€‚");
+                
                 StartCoroutine(UpdateOceanRoutine());
             }
         }
@@ -138,15 +138,15 @@ public class WorldManager : MonoBehaviour // ƒNƒ‰ƒX–¼‚ÍWorldManager‚Ì‚Ü‚Ü‚Æ‚µ‚Ü‚
 
     private void UpdateOceanGrid()
     {
-        // --- šššŠC‚ÌíœƒƒWƒbƒN‚ğC³ššš ---
+        // --- â˜…â˜…â˜…æµ·ã®å‰Šé™¤ãƒ­ã‚¸ãƒƒã‚¯ã‚’ä¿®æ­£â˜…â˜…â˜… ---
         List<Vector2Int> oceansToRemove = new List<Vector2Int>();
         foreach (var kvp in oceanTilesByCoords)
         {
             Vector3 tileWorldPos = kvp.Value.transform.position;
-            // ‘D‚ÌŒ»İ’n‚©‚ç‚ÌuÀÛ‚Ì‹——£v‚ğŒvZ
+            // èˆ¹ã®ç¾åœ¨åœ°ã‹ã‚‰ã®ã€Œå®Ÿéš›ã®è·é›¢ã€ã‚’è¨ˆç®—
             float distanceToShip = Vector3.Distance(new Vector3(tileWorldPos.x, 0, tileWorldPos.z), new Vector3(trackingTarget.position.x, 0, trackingTarget.position.z));
 
-            // ‹——£‚ªw’è‚µ‚½”¼Œa‚ğ’´‚¦‚½‚çíœƒŠƒXƒg‚É’Ç‰Á
+            // è·é›¢ãŒæŒ‡å®šã—ãŸåŠå¾„ã‚’è¶…ãˆãŸã‚‰å‰Šé™¤ãƒªã‚¹ãƒˆã«è¿½åŠ 
             if (distanceToShip > oceanKeepRadius)
             {
                 oceansToRemove.Add(kvp.Key);
@@ -162,9 +162,9 @@ public class WorldManager : MonoBehaviour // ƒNƒ‰ƒX–¼‚ÍWorldManager‚Ì‚Ü‚Ü‚Æ‚µ‚Ü‚
             }
         }
 
-        // V‚µ‚¢ŠC‚Ìƒ^ƒCƒ‹¶¬ƒƒWƒbƒNiƒOƒŠƒbƒhƒx[ƒX‚Å”ÍˆÍ‚ğƒ`ƒFƒbƒNj
+        // æ–°ã—ã„æµ·ã®ã‚¿ã‚¤ãƒ«ç”Ÿæˆãƒ­ã‚¸ãƒƒã‚¯ï¼ˆã‚°ãƒªãƒƒãƒ‰ãƒ™ãƒ¼ã‚¹ã§ç¯„å›²ã‚’ãƒã‚§ãƒƒã‚¯ï¼‰
         Vector2Int currentTargetCoords = GetCoordsFromPosition(trackingTarget.position);
-        int oceanGridRadius = Mathf.CeilToInt(oceanKeepRadius / oceanTileSize); // ”¼Œa‚©‚çƒOƒŠƒbƒh”‚ğŒvZ
+        int oceanGridRadius = Mathf.CeilToInt(oceanKeepRadius / oceanTileSize); // åŠå¾„ã‹ã‚‰ã‚°ãƒªãƒƒãƒ‰æ•°ã‚’è¨ˆç®—
 
         for (int x = -oceanGridRadius; x <= oceanGridRadius; x++)
         {
@@ -174,7 +174,7 @@ public class WorldManager : MonoBehaviour // ƒNƒ‰ƒX–¼‚ÍWorldManager‚Ì‚Ü‚Ü‚Æ‚µ‚Ü‚
                 Vector3 tileWorldPos = new Vector3(coord.x * oceanTileSize, oceanBaseHeight, coord.y * oceanTileSize);
                 float distanceToShip = Vector3.Distance(new Vector3(tileWorldPos.x, 0, tileWorldPos.z), new Vector3(trackingTarget.position.x, 0, trackingTarget.position.z));
 
-                // Šù‚Éƒ^ƒCƒ‹‚ª‚È‚­A‚©‚Â‰~Œ`”ÍˆÍ‚Ì“à‘¤‚È‚ç¶¬
+                // æ—¢ã«ã‚¿ã‚¤ãƒ«ãŒãªãã€ã‹ã¤å††å½¢ç¯„å›²ã®å†…å´ãªã‚‰ç”Ÿæˆ
                 if (!oceanTilesByCoords.ContainsKey(coord) && distanceToShip <= oceanKeepRadius)
                 {
                     GameObject oceanTile = Instantiate(oceanTilePrefab);

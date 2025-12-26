@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &15070545608825028
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 762565557973295646, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: UVModule.tilesY
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 762565557973295646, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.8770962
+      objectReference: {fileID: 0}
+    - target: {fileID: 762565557973295646, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.8980392
+      objectReference: {fileID: 0}
+    - target: {fileID: 762565557973295646, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.36862743
+      objectReference: {fileID: 0}
+    - target: {fileID: 962717170092808431, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ad214932b3ef3a3478564014550dca06, type: 2}
+    - target: {fileID: 2010456346409425274, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2010456346409425274, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2010456346409425274, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.18245125
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721724730366165918, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.key1.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721724730366165918, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.key1.g
+      value: 0.45338178
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721724730366165918, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.key1.r
+      value: 0.39607847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721724730366165918, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.key2.b
+      value: 0.9791279
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721724730366165918, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.key2.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718470321, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_Name
+      value: Atack - Flamethrower 02
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455600872718853699, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f300c9ef9893eff40b82691c9bb4959c, type: 3}

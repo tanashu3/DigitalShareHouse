@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc4347574b823934ba11785e25895920
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289983
+  packageName: Big Draco Light
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Elemental Dragons/Shaders/PriorityParticleAlpha.shader
+  uploadId: 678156

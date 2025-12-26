@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c64a10e51b2f4e49a93cd981b96c07e
+timeCreated: 1512067410
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289983
+  packageName: Big Draco Light
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Elemental Dragons/Prefabs/000 - Extras/Atacks/Attack
+    - Ice Wave.prefab
+  uploadId: 678156
